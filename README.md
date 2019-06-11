@@ -21,7 +21,7 @@
 <img src="https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Projects.png?raw=true" width=70% height=70% />
 
 
-<img src="https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Results.png?raw=true" width=70% height=70% />
+<img src="https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/results.png?raw=true" width=70% height=70% />
 
 ## 贡献者
 
@@ -32,6 +32,7 @@
 
 * Windows Server 2008 or later
 * Microsoft SQL Server 2008 or later
+* .Net Framework 4.0
 * IIS 7.0 or later
 
 ## License
