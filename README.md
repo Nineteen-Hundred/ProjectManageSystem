@@ -32,7 +32,7 @@
 
 * Windows Server 2008 or later
 * Microsoft SQL Server 2008 or later
-* .Net Framework 4.0
+* Microsoft .Net Framework 4.0
 * IIS 7.0 or later
 
 ## License
