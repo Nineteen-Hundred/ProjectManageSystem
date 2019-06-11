@@ -1,0 +1,563 @@
+﻿body 
+{
+    line-height:15px;
+    font-size:medium;
+    background-attachment:fixed;
+    background-image:url(../image/test1.jpg);
+     background-size:cover;
+
+}
+.title
+{
+    width:100%;
+    border-radius:5px;
+    text-align:center;
+    margin-bottom:20px;
+    background-color:red;
+}
+
+.little:hover
+{
+    background-color:rgba(130,1,120,0.6);
+}
+
+.side
+{
+    width:250px;
+    float:left;
+}
+.little
+{
+    width:100%;
+    border-radius:5px;
+    margin-bottom:10px;
+    float:left;
+}
+.files
+{
+    width:1000px;
+    min-height:640px;
+    float:right;
+    background-color:transparent;
+}
+
+.colume
+{
+    border:4px solid transparent;
+    width:100%;
+    background-color:rgba(0,0,0,0.4);
+    color:White;
+    font-size:medium;
+    font-family:微软雅黑;
+    line-height:30px;
+    margin-bottom:10px;
+    border-radius:6px;
+}
+.colume a
+{
+    color:White;
+}
+
+.td
+{
+    padding-right:10px;
+    
+}
+
+.colume:hover
+{
+    border:4px solid orange;
+}
+
+.infototal
+{
+    margin-left:20px;
+    width:450px;
+    height:170px;
+    font-family:微软雅黑;
+    font-size:medium;
+    float:left;
+    padding-left:10px;
+    background-color:rgba(0,0,0,0.4);
+    border-radius:8px;
+    margin-bottom:15px;
+}
+
+.infoimage
+{
+    width:120px;
+    height:160px;
+    float:left;
+}
+
+.infocontent
+{
+    font-family:微软雅黑;
+    height:160px;
+    width:300px;
+    float:right;
+    line-height:16px;
+    float:right;
+    color:White;
+}
+.infototal:hover
+{
+    background-color:rgba(0,250,0,0.4);
+    color:Black;
+    border-radius:8px;
+}
+
+.members
+{
+    width:100%;
+    border-radius:5px;
+    margin-bottom:10px;
+    float:left;
+    background-color:rgba(250,0,0,0.4);
+}
+
+.frontpage
+{
+    width:100%;
+    border-radius:5px;
+    margin-bottom:10px;
+    float:left;
+    background-color:rgba(0,250,0,0.4);
+}
+
+.results
+{
+    width:100%;
+    border-radius:5px;
+    margin-bottom:10px;
+    float:left;
+    background-color:rgba(0,0,250,0.4);
+}
+
+.money
+{
+    width:100%;
+    border-radius:5px;
+    margin-bottom:10px;
+    float:left;
+    background-color:rgba(250,100,0,0.4);
+}
+
+.techbbs
+{
+    width:100%;
+    border-radius:5px;
+    margin-bottom:10px;
+    float:left;
+    background-color:rgba(0,250,250,0.4);
+}
+
+.weekreport
+{
+    width:100%;
+    border-radius:5px;
+    margin-bottom:10px;
+    float:left;
+    background-color:rgba(120,250,30,0.4);
+}
+
+.check
+{
+    width:100%;
+    border-radius:5px;
+    margin-bottom:10px;
+    float:left;
+    background-color:rgba(250,0,250,0.4);
+}
+
+#weekreport:hover
+{
+    width:100%;
+    border-radius:5px;
+    margin-bottom:10px;
+    float:left;
+    background-color:rgba(120,250,30,0.4);
+}
+
+#frontpage:hover
+{
+    width:100%;
+    border-radius:5px;
+    margin-bottom:10px;
+    float:left;
+    background-color:rgba(0,250,0,0.4);
+}
+
+#results:hover
+{
+    width:100%;
+    border-radius:5px;
+    margin-bottom:10px;
+    float:left;
+    background-color:rgba(0,0,250,0.4);
+}
+
+#money:hover
+{
+    width:100%;
+    border-radius:5px;
+    margin-bottom:10px;
+    float:left;
+    background-color:rgba(250,100,0,0.4);
+}
+
+#techbbs:hover
+{
+    width:100%;
+    border-radius:5px;
+    margin-bottom:10px;
+    float:left;
+    background-color:rgba(0,250,250,0.4);
+}
+
+#check:hover
+{
+    width:100%;
+    border-radius:5px;
+    margin-bottom:10px;
+    float:left;
+    background-color:rgba(250,0,250,0.4);
+}
+#members:hover
+{
+    width:100%;
+    border-radius:5px;
+    margin-bottom:10px;
+    float:left;
+    background-color:rgba(250,0,0,0.4);
+}
+
+.bbstotal
+{
+    width:100%;
+    margin-bottom:20px;
+    float:left;
+}
+
+.bbsimageleft
+{
+    width:10%;
+    height:160px;
+    float:left;
+}
+
+.bbsimageright
+{
+    width:10%;
+    height:160px;
+    float:right;
+}
+
+.bbscontentleft
+{
+    width:90%;
+    color:White;
+    line-height:15px;
+    font-size:large;
+    float:left;
+    background-color:rgba(0,100,10,0.6);  
+    border-radius:8px; 
+}
+
+.bbscontentright
+{
+    width:90%;
+    color:White;
+    line-height:15px;
+    font-size:large;
+    float:right;
+    background-color:rgba(120,0,50,0.6);
+    border-radius:8px;
+}
+
+.bbstotal img
+{
+    width:80px;
+    height:100px;
+    border-radius:8px;
+    border:2px solid white;
+}
+
+.bbsimageright img
+{
+    float:right;
+}
+
+.bbscontentright p
+{
+    margin-left:20px;
+    margin-right:20px;
+    text-indent:2em;
+    font-size:large;
+    font-family:微软雅黑;
+    line-height:35px;
+}
+
+.bbscontentleft p
+{
+    margin-left:20px;
+    margin-right:20px;
+    text-indent:2em;
+    font-size:large;
+    font-family:微软雅黑;
+    line-height:35px;
+}
+
+.bbscontentright h1
+{
+    margin-left:20px;
+    margin-right:20px;
+    font-size:medium;
+    font-family:微软雅黑;
+}
+
+.bbscontentleft h1
+{
+    margin-left:20px;
+    margin-right:20px;
+    font-size:medium;
+    font-family:微软雅黑;
+}
+
+div[class=files] img
+{
+    border-radius:12px;
+}
+
+.checkinfo
+{
+    text-align:center;
+    width:100%;
+    margin-bottom:15px;
+    background-color:rgba(0,0,0,0.4);
+}
+
+.checkinfo select
+{
+    width:250px;
+    height:30px;
+    margin-right:30px;
+    font-family:微软雅黑;
+}
+
+.checkinfo input
+{
+    width:100px;
+    height:30px;
+    margin-right:30px;
+    font-family:微软雅黑;
+}
+
+.checkmoney
+{
+    text-align:center;
+    width:100%;
+    margin-bottom:15px;
+    background-color:rgba(0,240,0,0.4);
+}
+
+.checkemail
+{
+    text-align:center;
+    width:100%;
+    margin-bottom:15px;
+    background-color:rgba(0,0,0,0.4);
+    border-radius:8px;
+    font-family:微软雅黑;
+    font-size:medium;
+    color:White;
+}
+
+.checkmoney select
+{
+    width:120px;
+    height:30px;
+    margin-right:30px;
+    font-family:微软雅黑;
+}
+
+.checkmoney input
+{
+    width:100px;
+    height:22px;
+    margin-right:30px;
+}
+
+.checkmoney input[id=ensure]
+{
+	width:100px;
+	height:32px;
+	margin-right:30px;
+}
+
+.checkemail input
+{
+    margin-left:10px;
+    height:20px;
+    width:250px;
+}
+
+input[id=send]
+{
+    width:100px;
+    height:30px;
+    margin-top:30px;
+}   
+.littletitle
+{
+    width:100%;
+    color:White;
+    font-family:微软雅黑;
+    font-size:26px;
+    height:40px;
+    padding-top:20px;
+    margin-top:50px;
+    text-align:center;
+}
+
+div[id=pinglun] input
+{
+    margin-top:15px;
+    width:80px;
+    height:34px;
+    font-family:微软雅黑;
+    font-size:15px;
+}
+
+.fileupload
+{
+    width:98%;
+    color:Silver;
+    font-size:16px;
+    background-color:rgba(0,0,0,0.3);
+    font-family:微软雅黑;
+    padding-left:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    border-radius:8px;
+}
+
+.fileupload input[id=author]
+{
+    width:260px;
+    height:20px;
+    margin-top:30px;
+}
+
+.fileupload select
+{
+    height:22px;
+    width:100px;
+    margin-right:20px;
+    margin-bottom:30px;
+}
+
+.fileupload input[id=submit]
+{
+    width:100px;
+    height:30px;
+    font-size:13px;
+    margin-bottom:20px;
+    margin-left:240px;
+}
+
+input[id=typeensure]
+{
+    height:26px;
+    width:50px;
+    margin-right:20px;
+}
+
+textarea[id=neirong]
+{
+    border-radius:4px;
+    background-color:rgba(240,240,240,0.6);
+}
+
+textarea[id=neirong]:hover
+{
+    background-color:White;
+}
+
+input[type=submit]
+{
+    border-radius:4px;
+}
+
+.zuozhe
+{
+    width:250px;
+    height:20px;
+}
+
+.qikantimu
+{
+    width:250px;
+    height:20px;
+}
+
+.qikanming
+{
+    width:250px;
+    height:20px;
+}
+
+.qikanriqi
+{
+    width:150px;
+    height:20px;
+}
+
+.qijuanhao
+{
+    width:150px;
+    height:20px;
+}
+
+.yema
+{
+    width:60px;
+    height:20px;
+}
+
+.yingxiangyinzi
+{
+    width:50px;
+    height:20px;
+}
+
+.tijiao
+{
+    width:100px;
+    height:34px;
+}
+
+.moneysettext
+{
+    margin-top:15px;
+    margin-bottom:20px;
+    margin-right:25px;
+    width:180px;
+    height:25px;
+}
+
+.moneysetbutton
+{
+    width:100px;
+    height:28px;
+}
+
+.moneyset
+{
+    text-align:center;
+    width:100%;
+    margin-bottom:15px;
+    font-family:微软雅黑;
+    font-size:medium;
+    color:White;
+}

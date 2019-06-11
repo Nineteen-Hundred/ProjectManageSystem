@@ -1,0 +1,49 @@
+﻿body 
+{
+    line-height:30px;
+}
+
+p 
+{
+    font-family:微软雅黑;
+    font-size:medium;
+}
+
+.inputstyle
+{
+    border-radius:6px;
+    height:30px;
+    width:240px;
+    filter:alpha;
+    opacity:0.5;
+}
+.buttonstyle
+{
+    width:130px;
+    height:30px;
+}
+a 
+{
+    font-size:15px;
+}
+h1
+{
+    color:Navy;
+    font-size:30px;
+    font-family: 黑体;
+    margin-bottom:20px;
+    line-height:40px;
+}
+.back
+{
+    background-color:Gray;
+}
+input:hover
+{
+    filter:alpha;
+    opacity:1;
+}
+a
+{
+    color:White;
+}
