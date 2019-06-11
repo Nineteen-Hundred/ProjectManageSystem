@@ -8,23 +8,23 @@
 
 ![Frontpage.png](https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Frontpage.png?raw=true)
 
-
+--
 
 ![Information.png](https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Information.png?raw=true)
 
-
+--
 
 ![Management.png](https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Management.png?raw=true)
 
-
+--
 
 ![Members.png](https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Members.png?raw=true)
 
-
+--
 
 ![Projects.png](https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Projects.png?raw=true)
 
-
+--
 
 ![results.png](https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/results.png?raw=true)
 
