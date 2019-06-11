@@ -37,4 +37,4 @@
 
 ## License
 
-MIT
+GNU GPL v2.0
