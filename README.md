@@ -6,27 +6,22 @@
 
 ## 运行截图
 
-![Frontpage.png](https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Frontpage.png?raw=true)
+<img src="https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Frontpage.png?raw=true" width=70% height=70% />
 
----
 
-![Information.png](https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Information.png?raw=true)
+<img src="https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Information.png?raw=true" width=70% height=70% />
 
----
 
-![Management.png](https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Management.png?raw=true)
+<img src="https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Management.png?raw=true" width=70% height=70% />
 
----
 
-![Members.png](https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Members.png?raw=true)
+<img src="https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Members.png?raw=true" width=70% height=70% />
 
----
 
-![Projects.png](https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Projects.png?raw=true)
+<img src="https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Projects.png?raw=true" width=70% height=70% />
 
----
 
-![results.png](https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/results.png?raw=true)
+<img src="https://github.com/pysong-xidian/ProjectManageSystem/blob/master/ScreenShot/Results.png?raw=true" width=70% height=70% />
 
 ## 贡献者
 
